@@ -27,28 +27,6 @@ ai-health-symptom-checker/
 
 ## Installation
 
-1. Clone the repository:
-
-## Features
-
-- Predicts diseases based on symptoms input by the user.
-- Displays disease description and necessary precautions.
-- Checks symptom severity and alerts if emergency help (108) is recommended.
-- Uses a Keras deep learning model trained on symptom data.
-
-## Installation
-
-1. Clone the repository:
-
-## Features
-
-- Predicts diseases based on symptoms input by the user.
-- Displays disease description and necessary precautions.
-- Checks symptom severity and alerts if emergency help (108) is recommended.
-- Uses a Keras deep learning model trained on symptom data.
-
-## Installation
-
 1. Clone the repository: git clone https://github.com/lukky44-bit/ai-health-symptom-checker.git
 cd ai-health-symptom-checker
 2. Create a virtual environment (optional but recommended):
